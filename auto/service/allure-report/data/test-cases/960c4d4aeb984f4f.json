@@ -1,0 +1,75 @@
+{
+  "uid" : "960c4d4aeb984f4f",
+  "name" : "test_update_and_detect[num]",
+  "fullName" : "test_tag.TestTag#test_update_and_detect",
+  "historyId" : "245e28db824df644753ebca45d284d6d",
+  "time" : {
+    "start" : 1608633984015,
+    "stop" : 1608633985822,
+    "duration" : 1807
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b54ebf305f093992",
+      "name" : "stdout",
+      "source" : "b54ebf305f093992.txt",
+      "type" : "text/plain",
+      "size" : 2736
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_tag"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTag"
+  }, {
+    "name" : "host",
+    "value" : "gaoxuedeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "29124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_tag"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "tag_id",
+    "value" : "'etMoQQDQAAu47atKWLSSXFVYmy8doqiA'"
+  }, {
+    "name" : "tag_name",
+    "value" : "'123'"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "960c4d4aeb984f4f.json",
+  "parameterValues" : [ "'etMoQQDQAAu47atKWLSSXFVYmy8doqiA'", "'123'" ]
+}
