@@ -34,4 +34,3 @@ class AddressListPage(BasePage):
         else:
             result = True
         return result
-

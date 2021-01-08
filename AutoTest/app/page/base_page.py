@@ -33,4 +33,3 @@ class BasePage:
         result=self.find(MobileBy.XPATH, '//*[@class="android.widget.Toast"]').text
         logging.info(result)
         return result
-

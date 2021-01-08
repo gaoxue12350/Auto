@@ -44,4 +44,3 @@ class App(BasePage):
 
     def goto_main(self)->MainPage:
         return MainPage(self.driver)
-

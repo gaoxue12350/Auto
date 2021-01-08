@@ -2,7 +2,6 @@
 个人信息设置页面
 """
 from appium.webdriver.common.mobileby import MobileBy
-
 from app.page.base_page import BasePage
 from app.page.edit_member_page import EditMemeberPage
 

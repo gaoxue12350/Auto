@@ -22,4 +22,3 @@ class ContactAddPage(BasePage):
         self.find_and_click(MobileBy.XPATH, '//*[@text="保存"]')
         from app.page.member_invite_menu_page import MemberInviteMenuPage
         return MemberInviteMenuPage(self.driver)
-

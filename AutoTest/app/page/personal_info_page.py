@@ -2,10 +2,8 @@
 个人信息页面
 """
 from appium.webdriver.common.mobileby import MobileBy
-
 from app.page.base_page import BasePage
 from app.page.personal_info_setting_page import PersonalInfoSettingPage
-
 
 class PersonalInfoPage(BasePage):
     def goto_personal_info_setting(self):

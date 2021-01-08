@@ -3,7 +3,6 @@ from appium import webdriver
 from appium.webdriver.common.mobileby import MobileBy
 from selenium.webdriver.support.wait import WebDriverWait
 
-
 class TestDemo:
     def setup_class(self):
         caps = {}

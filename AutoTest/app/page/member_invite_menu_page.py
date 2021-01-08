@@ -5,7 +5,6 @@ from appium.webdriver.common.mobileby import MobileBy
 from app.page.base_page import BasePage
 from app.page.contact_add_page import ContactAddPage
 
-
 class MemberInviteMenuPage(BasePage):
     # def __init__(self,driver):
     #     self.driver=driver

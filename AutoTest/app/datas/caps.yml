@@ -5,7 +5,6 @@ desirecaps:
   appActivity: ".launch.LaunchSplashActivity"
   noReset: "True"
 
-
 server:
   ip: "localhost"
   port: "4723"

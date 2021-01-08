@@ -18,4 +18,3 @@ class MainPage(BasePage):
         # self.find(*self.address_element).click()
         self.find_and_click(*self.address_element)
         return AddressListPage(self.driver)
-

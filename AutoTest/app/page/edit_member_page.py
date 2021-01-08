@@ -13,4 +13,3 @@ class EditMemeberPage(BasePage):
         self.find_and_click(MobileBy.XPATH,'//*[@text="确定"]')
         from app.page.address_list_page import AddressListPage
         return AddressListPage(self.driver)
-
