@@ -1,5 +1,4 @@
 import pytest
-
 from pythoncode.calculator import Calculator
 
 @pytest.fixture(scope='module')

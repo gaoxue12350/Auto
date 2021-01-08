@@ -1,7 +1,6 @@
 import pytest
 import yaml
 
-
 def get_datas():
     with open("datas/calc.yml") as f:
         datas = yaml.safe_load(f)
