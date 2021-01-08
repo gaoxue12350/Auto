@@ -1,0 +1,53 @@
+{
+  "uid" : "e5406845711bdfa4",
+  "name" : "test_list",
+  "fullName" : "test_tag.TestTag#test_list",
+  "historyId" : "eb586736e4e1766efde437155a8259cb",
+  "time" : {
+    "start" : 1608633977177,
+    "stop" : 1608633977449,
+    "duration" : 272
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_tag"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestTag"
+  }, {
+    "name" : "host",
+    "value" : "gaoxuedeMacBook-Air.local"
+  }, {
+    "name" : "thread",
+    "value" : "29124-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_tag"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e5406845711bdfa4.json",
+  "parameterValues" : [ ]
+}
