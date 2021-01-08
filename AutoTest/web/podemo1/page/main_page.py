@@ -7,7 +7,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from web.podemo1.page.add_member_page import AddMemberPage
 from web.podemo1.page.base_page import BasePage
 
-
 class MainPage(BasePage):
     base_url = "https://work.weixin.qq.com/wework_admin/frame#index"
 

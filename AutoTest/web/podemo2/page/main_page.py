@@ -9,7 +9,6 @@ from web.podemo2.page.add_member_page import AddMemberPage
 from web.podemo2.page.base_page import BasePage
 from web.podemo2.page.contact_page import ContactPage
 
-
 class MainPage(BasePage):
     # def __init__(self):
     #     options=Options()

@@ -7,7 +7,6 @@ from selenium.webdriver.support.wait import WebDriverWait
 from web.podemo2.page.add_member_page import AddMemberPage
 from web.podemo2.page.base_page import BasePage
 
-
 class ContactPage(BasePage):
     # def __init__(self,driver:WebDriver):
     #     self.driver=driver

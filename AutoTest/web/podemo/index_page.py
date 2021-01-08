@@ -3,7 +3,6 @@ from selenium.webdriver.common.by import By
 from web.podemo.login_page import LoginPage
 from web.podemo.register_page import RegisterPage
 
-
 class IndexPage:
     def __init__(self):
         self.driver = webdriver.Chrome()

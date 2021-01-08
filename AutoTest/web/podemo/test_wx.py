@@ -1,6 +1,5 @@
 from web.podemo.index_page import IndexPage
 
-
 class TestWX:
     def setup(self):
         self.index = IndexPage()
