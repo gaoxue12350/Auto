@@ -1,2 +1,0 @@
-group_id not in group
-{'errcode': 0, 'errmsg': 'ok'} <class 'dict'>
