@@ -1,0 +1,10 @@
+desired_caps:
+  platformName: Android
+  deviceName: emulator-5554
+  udid: emulator-5554
+  noReset: false
+  automationName: UiAutomator2
+  appPackage: com.example.android.contactmanager
+  appActivity: .ContactManager
+appium_server_url:
+  url: http://localhost:4723/wd/hub
